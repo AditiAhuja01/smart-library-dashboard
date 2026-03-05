@@ -1,0 +1,101 @@
+date,student_id,department,genre,floor,loan_days,returned,fine_rs
+2025-12-14 02:19:43.367089,CU74042,Media Studies,Journals,First Floor,7,True,10
+2026-03-01 16:19:43.367089,CU12552,Media Studies,Reference,Ground Floor,20,True,0
+2026-01-29 00:19:43.367089,CU24662,Computer Science,Journals,Digital Zone,15,False,0
+2026-02-05 01:19:43.367089,CU57576,Engineering,Textbooks,Second Floor,11,True,0
+2026-02-19 17:19:43.367089,CU50306,Law,Thesis,First Floor,8,True,0
+2025-12-26 02:19:43.367089,CU41385,Computer Science,Reference,First Floor,7,True,10
+2025-12-19 21:19:43.367089,CU17592,Computer Science,Research Papers,Second Floor,19,True,20
+2026-03-01 03:19:43.367089,CU41571,Media Studies,Textbooks,Second Floor,11,True,0
+2026-02-22 00:19:43.367089,CU84364,Business Admin,Fiction,Digital Zone,11,True,0
+2026-02-03 19:19:43.367089,CU20322,Psychology,Journals,Digital Zone,4,True,0
+2025-12-18 03:19:43.367089,CU21226,Law,Journals,Second Floor,8,True,0
+2025-12-24 00:19:43.367089,CU73699,Theology,Textbooks,Second Floor,3,True,10
+2025-12-11 16:19:43.367089,CU19071,Theology,Fiction,First Floor,2,True,10
+2025-12-25 21:19:43.367089,CU79822,Business Admin,Thesis,Second Floor,12,True,10
+2026-02-04 20:19:43.367089,CU26483,Computer Science,Thesis,Second Floor,6,True,0
+2025-12-19 23:19:43.367089,CU26828,Psychology,Textbooks,Ground Floor,2,True,0
+2026-03-04 15:19:43.367089,CU96474,Theology,Fiction,Digital Zone,1,True,0
+2026-02-12 16:19:43.367089,CU72296,Media Studies,Reference,Ground Floor,12,True,10
+2026-01-09 22:19:43.367089,CU82063,Business Admin,Reference,First Floor,12,False,0
+2026-01-29 01:19:43.367089,CU31643,Engineering,Fiction,Digital Zone,17,True,0
+2026-02-05 15:19:43.367089,CU44741,Media Studies,Journals,Ground Floor,10,True,0
+2026-01-21 02:19:43.367089,CU79163,Media Studies,Thesis,Ground Floor,16,True,0
+2026-02-21 21:19:43.367089,CU89507,Engineering,Thesis,Digital Zone,15,True,0
+2026-02-20 22:19:43.367089,CU65461,Law,Magazines,Second Floor,15,True,0
+2026-01-19 18:19:43.367089,CU37760,Business Admin,Thesis,Digital Zone,19,True,0
+2026-01-30 15:19:43.367089,CU80686,Business Admin,Research Papers,First Floor,12,True,0
+2026-02-27 16:19:43.367089,CU36365,Computer Science,Research Papers,Digital Zone,20,False,0
+2026-01-05 19:19:43.367089,CU50857,Media Studies,Magazines,Second Floor,3,True,0
+2026-02-17 21:19:43.367089,CU62296,Computer Science,Research Papers,Second Floor,5,True,0
+2026-02-22 19:19:43.367089,CU98039,Psychology,Fiction,First Floor,19,False,0
+2026-01-26 14:19:43.367089,CU95180,Computer Science,Research Papers,First Floor,7,True,0
+2025-12-14 18:19:43.367089,CU58944,Law,Thesis,Ground Floor,9,True,0
+2026-01-17 18:19:43.367089,CU67422,Theology,Magazines,Second Floor,7,False,0
+2026-02-08 16:19:43.367089,CU77839,Law,Fiction,Digital Zone,18,True,10
+2026-02-25 03:19:43.367089,CU69177,Computer Science,Reference,Digital Zone,4,True,0
+2025-12-11 00:19:43.367089,CU25860,Law,Magazines,Digital Zone,14,False,0
+2026-01-27 02:19:43.367089,CU42493,Media Studies,Research Papers,Digital Zone,18,True,0
+2026-02-03 14:19:43.367089,CU39451,Computer Science,Research Papers,Ground Floor,9,True,0
+2026-02-20 21:19:43.367089,CU18392,Computer Science,Reference,Digital Zone,2,True,0
+2026-01-28 20:19:43.367089,CU54313,Theology,Fiction,Second Floor,20,True,0
+2025-12-13 14:19:43.367089,CU12757,Psychology,Textbooks,First Floor,15,True,50
+2026-01-18 01:19:43.367089,CU87110,Theology,Journals,Second Floor,7,False,0
+2026-01-16 22:19:43.367089,CU82603,Law,Research Papers,Digital Zone,12,True,10
+2026-02-06 17:19:43.367089,CU40161,Engineering,Thesis,Ground Floor,8,True,0
+2026-01-29 16:19:43.367089,CU87128,Computer Science,Fiction,Ground Floor,15,True,10
+2025-12-07 17:19:43.367089,CU38864,Computer Science,Magazines,First Floor,3,True,0
+2026-02-23 18:19:43.367089,CU10942,Engineering,Thesis,Second Floor,14,True,0
+2025-12-14 01:19:43.367089,CU19305,Law,Research Papers,Second Floor,17,True,0
+2025-12-26 16:19:43.367089,CU92719,Psychology,Reference,First Floor,4,False,0
+2026-02-02 01:19:43.367089,CU17716,Business Admin,Fiction,Digital Zone,18,True,0
+2026-01-04 21:19:43.367089,CU40007,Engineering,Research Papers,First Floor,8,True,0
+2026-01-29 17:19:43.367089,CU18834,Psychology,Textbooks,Digital Zone,4,True,0
+2025-12-06 19:19:43.367089,CU14117,Business Admin,Magazines,Digital Zone,2,True,0
+2026-02-04 17:19:43.367089,CU53309,Computer Science,Fiction,First Floor,6,False,0
+2026-01-22 14:19:43.367089,CU19287,Engineering,Journals,Digital Zone,10,False,20
+2026-02-26 00:19:43.367089,CU77391,Law,Reference,First Floor,4,True,20
+2026-02-28 15:19:43.367089,CU41195,Theology,Magazines,Ground Floor,18,True,20
+2026-01-23 21:19:43.367089,CU46500,Theology,Fiction,Digital Zone,12,True,0
+2026-01-30 02:19:43.367089,CU97684,Computer Science,Textbooks,First Floor,2,True,0
+2026-02-05 18:19:43.367089,CU73624,Engineering,Thesis,Digital Zone,10,True,20
+2026-01-24 00:19:43.367089,CU38080,Law,Research Papers,Digital Zone,4,True,0
+2025-12-11 20:19:43.367089,CU80678,Computer Science,Reference,First Floor,14,True,20
+2026-01-13 17:19:43.367089,CU27342,Law,Thesis,Digital Zone,16,True,20
+2026-01-06 01:19:43.367089,CU84847,Law,Textbooks,First Floor,15,True,10
+2026-01-31 01:19:43.367089,CU85525,Computer Science,Reference,Ground Floor,8,False,0
+2026-02-01 16:19:43.367089,CU71953,Psychology,Fiction,First Floor,14,True,0
+2025-12-23 19:19:43.367089,CU41850,Computer Science,Magazines,Second Floor,8,True,10
+2026-01-30 16:19:43.367089,CU71993,Business Admin,Journals,Ground Floor,16,True,0
+2025-12-20 21:19:43.367089,CU63354,Business Admin,Thesis,First Floor,13,False,0
+2025-12-20 21:19:43.367089,CU34957,Law,Textbooks,Digital Zone,18,True,0
+2026-01-18 00:19:43.367089,CU22363,Law,Thesis,Ground Floor,15,True,20
+2026-02-15 19:19:43.367089,CU22704,Psychology,Research Papers,Ground Floor,13,True,0
+2026-01-01 02:19:43.367089,CU96374,Theology,Textbooks,First Floor,9,True,0
+2026-02-26 14:19:43.367089,CU66498,Media Studies,Journals,Ground Floor,15,True,0
+2026-02-19 01:19:43.367089,CU56438,Law,Journals,Ground Floor,13,True,0
+2025-12-15 01:19:43.367089,CU65519,Engineering,Magazines,First Floor,1,True,50
+2025-12-07 21:19:43.367089,CU63883,Law,Reference,First Floor,7,True,0
+2025-12-19 02:19:43.367089,CU71213,Theology,Thesis,First Floor,9,True,0
+2026-01-14 21:19:43.367089,CU17100,Computer Science,Magazines,Ground Floor,1,True,10
+2025-12-18 20:19:43.367089,CU98259,Theology,Research Papers,Digital Zone,12,False,0
+2025-12-27 23:19:43.367089,CU95649,Business Admin,Journals,First Floor,8,True,0
+2025-12-24 14:19:43.367089,CU94696,Theology,Thesis,Digital Zone,11,True,0
+2026-03-03 17:19:43.367089,CU22899,Media Studies,Thesis,Digital Zone,19,True,0
+2026-02-18 17:19:43.367089,CU17944,Business Admin,Reference,Ground Floor,17,True,0
+2025-12-26 15:19:43.367089,CU62772,Business Admin,Reference,Digital Zone,8,True,10
+2026-01-29 15:19:43.367089,CU54473,Business Admin,Textbooks,Second Floor,3,True,10
+2025-12-12 22:19:43.367089,CU24322,Psychology,Thesis,First Floor,3,True,10
+2026-02-18 23:19:43.367089,CU42591,Engineering,Journals,Digital Zone,1,True,20
+2026-01-09 01:19:43.367089,CU35112,Media Studies,Reference,First Floor,5,True,0
+2026-01-06 03:19:43.367089,CU34931,Law,Fiction,First Floor,10,True,0
+2026-01-30 19:19:43.367089,CU80292,Business Admin,Reference,Digital Zone,7,True,10
+2026-02-10 19:19:43.367089,CU68800,Theology,Journals,Digital Zone,9,True,0
+2026-02-19 14:19:43.367089,CU28373,Computer Science,Research Papers,Second Floor,7,False,0
+2025-12-14 23:19:43.367089,CU65296,Engineering,Reference,Second Floor,9,True,10
+2025-12-13 19:19:43.367089,CU34050,Media Studies,Fiction,Digital Zone,8,True,10
+2025-12-18 00:19:43.367089,CU46509,Computer Science,Magazines,Digital Zone,12,True,0
+2026-02-13 22:19:43.367089,CU70637,Psychology,Research Papers,First Floor,2,False,0
+2026-02-12 19:19:43.367089,CU42742,Computer Science,Journals,First Floor,1,False,0
+2025-12-28 03:19:43.367089,CU19880,Theology,Fiction,First Floor,16,True,0
+2025-12-18 22:19:43.367089,CU68082,Business Admin,Magazines,First Floor,5,True,0
