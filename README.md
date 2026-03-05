@@ -15,13 +15,13 @@ A real-time Smart Library Analytics Dashboard built using Python and Streamlit. 
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/home.png)
+![Home Page](Screenshots/Home.jpg)
 
 ### Book Catalog
-![Book Catalog](screenshots/catalog.png)
+![Book Catalog](Screenshots/catalog.jpg)
 
 ### Overdue Management
-![Overdue Management](screenshots/overdue.png)
+![Overdue Management](Screenshots/overdue.jpg)
 
 ---
 
@@ -70,5 +70,4 @@ christ_library_100_rows.csv   — Library transaction dataset
 christ_logo.jpg               — CHRIST University logo
 requirements.txt              — Dependencies
 ```
-
 
